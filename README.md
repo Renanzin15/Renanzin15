@@ -1,7 +1,7 @@
 <!-- Banner em onda com gradiente roxo + nome -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:A78BFA&height=200&section=header&text=Renan%20Santana&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Desenvolvedor%20%C2%B7%20Python%20%C2%B7%20Back-end%20%26%20APIs&descAlignY=60&descSize=18" width="100%" alt="Renan Santana" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:A78BFA&height=200&section=header&text=Renan%20Santana&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Python%20%C2%B7%20Back-end%20%C2%B7%20APIs%20REST&descAlignY=60&descSize=18" width="100%" alt="Renan Santana" />
 
 <!-- Linha animada que "digita" sozinha -->
 <a href="https://renanzin15.github.io">
