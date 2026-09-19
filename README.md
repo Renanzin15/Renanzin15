@@ -55,16 +55,19 @@ API REST em **FastAPI** (46 rotas, 9 tabelas), banco **SQLite**, login com **bcr
 
 <br>
 
-## 📊 Minhas estatísticas
+## 📈 GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Renanzin15&show_icons=true&hide_border=true&title_color=A78BFA&icon_color=8B5CF6&text_color=C9C4E0&bg_color=0C0A18" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanzin15&layout=compact&hide_border=true&title_color=A78BFA&text_color=C9C4E0&bg_color=0C0A18" alt="top langs" />
+<img src="https://komarev.com/ghpvc/?username=Renanzin15&label=Visitas%20no%20perfil&color=8B5CF6&style=for-the-badge" alt="Visitas no perfil" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Renanzin15&hide_border=true&background=0C0A18&stroke=2A2447&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=C9C4E0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9A93B8" alt="Sequência de contribuições" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Renanzin15&hide_border=true&background=0C0A18&stroke=2A2447&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=C9C4E0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9A93B8" alt="streak" />
+<sub>📌 Números crescem conforme eu construo — o que vale mesmo está nos <a href="https://renanzin15.github.io">projetos</a>.</sub>
 
 </div>
 
