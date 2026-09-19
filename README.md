@@ -51,17 +51,13 @@
 ## 📌 Projeto em destaque
 
 ### 💰 [Meu Orçamento — Sistema Financeiro](https://github.com/Renanzin15/Sistema-Financeiro)
-API REST em **FastAPI** (46 rotas, 9 tabelas), banco **SQLite**, login com **bcrypt + JWT**, importação de extrato (OFX/CSV) e leitor de contas por foto/PDF com **OCR**. Front-end de página única com tema escuro e gráficos.
+SaaS multiusuário de finanças pessoais: **API REST em FastAPI + Postgres (Supabase)**, login com **Supabase Auth**, importação de extrato (OFX/CSV) e leitor de contas por foto/PDF com **OCR**. Front-end com tema escuro e gráficos, deploy no **Render**.
 
 <br>
 
 ## 📈 GitHub
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Renanzin15&label=Visitas%20no%20perfil&color=8B5CF6&style=for-the-badge" alt="Visitas no perfil" />
-
-<br><br>
 
 <img src="https://streak-stats.demolab.com?user=Renanzin15&hide_border=true&background=0C0A18&stroke=2A2447&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=C9C4E0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9A93B8" alt="Sequência de contribuições" />
 
